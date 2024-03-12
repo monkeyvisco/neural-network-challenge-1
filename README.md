@@ -3,9 +3,6 @@
 
 # neural-network-challenge-1
 
-## Contact Info
-Author / Quite-Junior-Developer / 20+ yrs Experience 
-
 ## Description
 The files in this respository, including the Juptyer Notebook file containing the code and commentary, were used to meet the requirements of an AI Boot Camp Challenge Assignment within the curriculum of the Michigan State University College of Engineering AI Boot Camp, in partnership with edX.
 https://www.edx.org/boot-camps/ai/michigan-state-university-ai-boot-camp
